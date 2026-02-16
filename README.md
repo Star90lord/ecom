@@ -1,2 +1,0 @@
-# ecom
-university project ecom
